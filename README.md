@@ -10,7 +10,8 @@ TBD - introduction about this course
 * Read about Traditional Statistics :  
 
 #### Technical things
-* Python :
+* Python : [Prerequisites1 - Python Notebook](prerequisites1 - python.ipynb)
+* IPython & Jupyter Notebook :
 * NumPy :
 * Pandas :
 * Matplotlib :
@@ -27,7 +28,7 @@ Follow the steps below!
 
 #### Step 1: Classification
 Titanic: Machine Learning from Disaster
-https://www.kaggle.com/c/titanic/kernels?sortBy=voteCount&group=everyone&pageSize=20&competitionId=3136
+https://www.kaggle.com/c/titanic
 
 #### Step 2: Clustering
 Mall Customer Segmentation Data
@@ -63,15 +64,19 @@ git clone https://github.com/parksurk/da_structured-data.git
     conda create --name kaggle python=3.6
     activate kaggle
     ```
-3. Create an IPython kernel for the drlnd environment. (Skip if you done already)
+3. Install Python Scientific Libraries
+```
+pip install numpy, pandas, matplotlib, seaborn, scikit-learn
+```
+4. Create an IPython kernel for the drlnd environment. (Skip if you done already)
 ```
 pip install ipykernel
 python -m ipykernel install --user --name kaggle --display-name "kaggle"
 ```
-4. Run Jupyter Notebook
+5. Run Jupyter Notebook
 ```
 jupyter notebook
 ```
-5. Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
+6. Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
 
-6. Click **.ipynb** on root directory
+7. Click **.ipynb** on root directory
