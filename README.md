@@ -23,7 +23,7 @@ For this project, we will use  DataSets in Kaggle Competition.
 ---
 
 ### Getting Started
-Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
+Follow the steps below!
 
 #### Step 1: Classification
 Titanic: Machine Learning from Disaster
@@ -65,6 +65,7 @@ git clone https://github.com/parksurk/da_structured-data.git
     ```
 3. Create an IPython kernel for the drlnd environment. (Skip if you done already)
 ```
+pip install ipykernel
 python -m ipykernel install --user --name kaggle --display-name "kaggle"
 ```
 4. Run Jupyter Notebook
