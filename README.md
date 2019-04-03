@@ -77,19 +77,25 @@ git clone https://github.com/parksurk/da_structured-data.git
 pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
-4.	Create an IPython kernel for the drlnd environment. (Skip if you done already)
+4. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
+
+```
+conda install -c conda-forge rise
+```
+
+5.	Create an IPython kernel for the kaggle environment. (Skip if you done already)
 
 ```
 pip install ipykernel
 python -m ipykernel install --user --name kaggle --display-name "kaggle"
 ```
 
-5.	Run Jupyter Notebook
+6.	Run Jupyter Notebook
 
 ```
 jupyter notebook
 ```
 
-6.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
+7.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
 
-7.	Click **.ipynb** on root directory
+8.	Click **.ipynb** on root directory
