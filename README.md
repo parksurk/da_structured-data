@@ -62,7 +62,7 @@ To setup our project environment to run the code in this repository, follow the 
 git clone https://github.com/parksurk/da_structured-data.git
 ```
 
-1.	Create (and activate) a new environment with Python 3.6.
+2.	Create (and activate) a new environment with Python 3.6.
 	-	Linux or Mac:`
 		conda create --name kaggle python=3.6
 		source activate kaggle
@@ -71,25 +71,25 @@ git clone https://github.com/parksurk/da_structured-data.git
 		conda create --name kaggle python=3.6
 		activate kaggle
 		`
-2.	Install Python Scientific Libraries
+3.	Install Python Scientific Libraries
 
 ```
 pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
-1.	Create an IPython kernel for the drlnd environment. (Skip if you done already)
+4.	Create an IPython kernel for the drlnd environment. (Skip if you done already)
 
 ```
 pip install ipykernel
 python -m ipykernel install --user --name kaggle --display-name "kaggle"
 ```
 
-1.	Run Jupyter Notebook
+5.	Run Jupyter Notebook
 
 ```
 jupyter notebook
 ```
 
-1.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
+6.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
 
-2.	Click **.ipynb** on root directory
+7.	Click **.ipynb** on root directory
