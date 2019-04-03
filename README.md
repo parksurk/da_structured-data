@@ -16,13 +16,13 @@ TBD - introduction about this course
 
 #### Technical things
 
--	Python : [Prerequisites1 - Python Notebook](prerequisites1 - python.ipynb)
--	IPython & Jupyter Notebook :
--	NumPy :
--	Pandas :
--	Matplotlib :
--	Seaborn :
--	Scikit-learn :
+-	Python : <a href="./prerequisites1 - python.ipynb">Prerequisite 1 - Python Notebook</a>
+-	IPython & Jupyter Notebook : <a href="./prerequisites2 - python data science environment.ipynb">Prerequisite 2 - Python Data Science Environment Notebook</a>
+-	NumPy : <a href="./prerequisites3 - numpy.ipynb">Prerequisite 3 - NumPy Notebook</a>
+-	Pandas : <a href="./prerequisites4 - pandas.ipynb">Prerequisite 4 - Pandas Notebook</a>
+-	Matplotlib : https://matplotlib.org
+-	Seaborn : https://seaborn.pydata.org
+-	Scikit-learn : https://scikit-learn.org/stable/
 
 ### Project Details
 
