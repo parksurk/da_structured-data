@@ -34,19 +34,23 @@ For this project, we will use DataSets in Kaggle Competition.
 
 Follow the steps below!
 
-#### Step 1: Classification
+#### Step 1: Data Analytics Workflow
+
+Boston Housing : Predicting Boston Housing Prices https://www.kaggle.com/samratp/boston-housing-prices-evaluation-validation
+
+#### Step 2: Classification
 
 Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic
 
-#### Step 2: Clustering
+#### Step 3: Clustering
 
 Mall Customer Segmentation Data Market Basket Analysis https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-#### Step 3: Regression
+#### Step 4: Regression
 
 Black Friday https://www.kaggle.com/mehdidag/black-friday
 
-#### Step 4: Classification - LightGBM
+#### Step 5: Classification - LightGBM
 
 Elo Merchant 카테고리 추천 https://www.kaggle.com/c/elo-merchant-category-recommendation
 
