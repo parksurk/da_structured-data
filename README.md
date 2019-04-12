@@ -38,19 +38,20 @@ Follow the steps below!
 
 Boston Housing : Predicting Boston Housing Prices https://www.kaggle.com/samratp/boston-housing-prices-evaluation-validation
 
-#### Step 2: Classification
-
-Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic
-
-#### Step 3: Clustering
-
-Mall Customer Segmentation Data Market Basket Analysis https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
-
-#### Step 4: Regression
+#### Step 2: Regression
 
 Black Friday https://www.kaggle.com/mehdidag/black-friday
 
-#### Step 5: Classification - LightGBM
+#### Step 3: Classification
+
+Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic
+
+#### Step 4: Clustering
+
+Mall Customer Segmentation Data Market Basket Analysis https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+
+#### Step 5: Recommendation
 
 Elo Merchant 카테고리 추천 https://www.kaggle.com/c/elo-merchant-category-recommendation
 
