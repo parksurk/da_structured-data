@@ -36,11 +36,11 @@ Follow the steps below!
 
 #### Step 1: Data Analytics Workflow
 
-Boston Housing : Predicting Boston Housing Prices https://www.kaggle.com/samratp/boston-housing-prices-evaluation-validation
+General Data Analytics Workflow
 
 #### Step 2: Regression
 
-Black Friday https://www.kaggle.com/mehdidag/black-friday
+Boston Housing : Predicting Boston Housing Prices https://www.kaggle.com/samratp/boston-housing-prices-evaluation-validation
 
 #### Step 3: Classification
 
