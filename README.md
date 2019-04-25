@@ -42,6 +42,8 @@ General Data Analytics Workflow
 
 Boston Housing : Predicting Boston Housing Prices https://www.kaggle.com/samratp/boston-housing-prices-evaluation-validation
 
+Ames House Prices: Advanced Regression Techniques(https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+
 #### Step 3: Classification
 
 Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic
@@ -82,10 +84,10 @@ git clone https://github.com/parksurk/da_structured-data.git
 pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
-4.	Install Etc Libraries like XGBoost, LightGBM
+4.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
 
 ```
-conda install -c conda-forge xgboost lightgbm
+conda install -c conda-forge xgboost lightgbm, graphviz
 ```
 
 5. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
