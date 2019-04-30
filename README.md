@@ -63,13 +63,22 @@ Elo Merchant 카테고리 추천 https://www.kaggle.com/c/elo-merchant-category-
 
 To setup our project environment to run the code in this repository, follow the instructions below.
 
-1.	Clone this repository
+
+1. Install Git
+	-	Linux: https://www.atlassian.com/git/tutorials/install-git#linux
+	- Mac: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
+	-	Windows: https://www.atlassian.com/git/tutorials/install-git#windows
+2. Install Anaconda
+	-	Linux: https://docs.anaconda.com/anaconda/install/linux/
+	- Mac: https://docs.anaconda.com/anaconda/install/mac-os/
+	-	Windows: https://docs.anaconda.com/anaconda/install/windows/
+3.	Clone this repository
 
 ```
 git clone https://github.com/parksurk/da_structured-data.git
 ```
 
-2.	Create (and activate) a new environment with Python 3.6.
+4.	Create (and activate) a new environment with Python 3.6.
 	-	Linux or Mac:`
 		conda create --name kaggle python=3.6
 		source activate kaggle
@@ -78,37 +87,37 @@ git clone https://github.com/parksurk/da_structured-data.git
 		conda create --name kaggle python=3.6
 		activate kaggle
 		`
-3.	Install Python Scientific Libraries
+5.	Install Python Scientific Libraries
 
 ```
 pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy
 ```
 
-4.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
+6.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
 
 ```
 conda install -c conda-forge xgboost lightgbm, graphviz
 ```
 
-5. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
+7. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
 
 ```
 conda install -c conda-forge rise
 ```
 
-6.	Create an IPython kernel for the kaggle environment. (Skip if you done already)
+8.	Create an IPython kernel for the kaggle environment. (Skip if you done already)
 
 ```
 pip install ipykernel
 python -m ipykernel install --user --name kaggle --display-name "kaggle"
 ```
 
-7.	Run Jupyter Notebook
+9.	Run Jupyter Notebook
 
 ```
 jupyter notebook
 ```
 
-8.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
+10.	Click **.ipynb** on root directory
 
-9.	Click **.ipynb** on root directory
+11.	Before running code in a notebook, change the kernel to match the 'kaggle' environment by using the drop-down Kernel menu.
