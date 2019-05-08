@@ -6,7 +6,7 @@ How to analyze Structured Data using Python
 
 ---
 
-TBD - introduction about this course
+introduction about this course
 
 ### Prerequisites
 
@@ -90,7 +90,7 @@ git clone https://github.com/parksurk/da_structured-data.git
 5.	Install Python Scientific Libraries
 
 ```
-pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy
+pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy plotly cufflinks
 ```
 
 6.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
