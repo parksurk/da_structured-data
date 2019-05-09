@@ -76,16 +76,16 @@ git clone https://github.com/parksurk/da_structured-data.git
 ```
 
 4.	Create (and activate) a new environment with Python 3.6.
-	-	Linux or Mac:`
+	-	Linux or Mac:
+		```
 		conda create --name kaggle python=3.6
-
 		source activate kaggle
-		`
-	-	Windows:`
+		```
+	-	Windows:
+		```
 		conda create --name kaggle python=3.6
-
 		activate kaggle
-		`
+		```
 5.	Install Python Scientific Libraries
 
 ```
