@@ -52,11 +52,6 @@ Titanic: Machine Learning from Disaster https://www.kaggle.com/c/titanic
 
 Mall Customer Segmentation Data Market Basket Analysis https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-
-#### Step 5: Recommendation
-
-Elo Merchant 카테고리 추천 https://www.kaggle.com/c/elo-merchant-category-recommendation
-
 ---
 
 ### Instructions
