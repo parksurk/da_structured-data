@@ -71,9 +71,9 @@ To setup our project environment to run the code in this repository, follow the 
 2. Install Anaconda
 	-	Linux: https://docs.anaconda.com/anaconda/install/linux/
 	- Mac: https://docs.anaconda.com/anaconda/install/mac-os/
-	[Download for Mac](https://drive.google.com/file/d/1HVymmlUe5_wLMvNrEGxYwLNnya6vhNpz/view?usp=sharing)
+		- [Download for Mac](https://drive.google.com/file/d/1HVymmlUe5_wLMvNrEGxYwLNnya6vhNpz/view?usp=sharing)
 	-	Windows: https://docs.anaconda.com/anaconda/install/windows/
-	[Download for Windows](https://drive.google.com/open?id=1CPwcFLmzUYKhdKCRD8NrH4RKaLAefEbk)
+		- [Download for Windows](https://drive.google.com/open?id=1CPwcFLmzUYKhdKCRD8NrH4RKaLAefEbk)
 3.	Clone this repository
 
 ```
