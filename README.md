@@ -70,11 +70,12 @@ To setup our project environment to run the code in this repository, follow the 
 	-	Windows: https://docs.anaconda.com/anaconda/install/windows/
 		- [Download for Windows](https://drive.google.com/open?id=1CPwcFLmzUYKhdKCRD8NrH4RKaLAefEbk)
 3.	Clone this repository
+	- [Reference #1 : Intorduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+	- [Reference #2 : Git the simple guide](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 ```
 git clone https://github.com/parksurk/da_structured-data.git
 ```
-
 4.	Create (and activate) a new environment with Python 3.6.
 	-	Linux or Mac:
 		```
