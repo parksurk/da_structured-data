@@ -12,7 +12,9 @@ introduction about this course
 
 #### Theoretical things
 
--	Read about Traditional Statistics :  
+-	Read about Mathematics & Statistics for Data Science
+ 	- Data Science School : https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/
+	- Online Graphing Calculator : https://www.desmos.com/calculator
 
 #### Technical things
 
@@ -21,7 +23,9 @@ introduction about this course
 -	NumPy : <a href="./prerequisites3 - numpy.ipynb">Prerequisite 3 - NumPy Notebook</a>
 -	Pandas : <a href="./prerequisites4 - pandas.ipynb">Prerequisite 4 - Pandas Notebook</a>
 -	Matplotlib : https://matplotlib.org
+	- [Reference - Plots with Matplotlib](https://datascienceschool.net/view-notebook/6e71dbff254542d9b0a054a7c98b34ec/)
 -	Seaborn : https://seaborn.pydata.org
+	- [Reference - Visualizaiton with Seaborn](https://datascienceschool.net/view-notebook/4c2d5ff1caab4b21a708cc662137bc65/)
 -	Scikit-learn : https://scikit-learn.org/stable/
 
 ### Project Details
