@@ -95,7 +95,7 @@ git clone https://github.com/parksurk/da_structured-data.git
 5.	Install Python Scientific Libraries
 
 ```
-pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy plotly cufflinks
+pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy plotly cufflinks tqdm
 ```
 
 6.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
