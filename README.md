@@ -67,6 +67,7 @@ To setup our project environment to run the code in this repository, follow the 
 	-	Linux: https://www.atlassian.com/git/tutorials/install-git#linux
 	- Mac: https://www.atlassian.com/git/tutorials/install-git#mac-os-x
 	-	Windows: https://www.atlassian.com/git/tutorials/install-git#windows
+		- [Download for Windows](https://drive.google.com/file/d/1FIElyMq4C1M0sVyEAtJ61jb8NRFowPtI/view?usp=sharing)
 2. Install Anaconda
 	-	Linux: https://docs.anaconda.com/anaconda/install/linux/
 	- Mac: https://docs.anaconda.com/anaconda/install/mac-os/
