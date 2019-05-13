@@ -100,9 +100,15 @@ pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy plotly cu
 
 6.	Install Etc Libraries like XGBoost, LightGBM, graphviz, python-graphviz
 
-```
-conda install -c conda-forge xgboost lightgbm graphviz python-graphviz
-```
+	-	Linux or Mac:
+		```
+		conda install -c conda-forge xgboost lightgbm graphviz python-graphviz
+		```
+	-	Windows:
+		```
+		cconda install -c anaconda py-xgboost
+		cconda install -c conda-forge lightgbm graphviz python-graphviz
+		```
 
 7. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
 
