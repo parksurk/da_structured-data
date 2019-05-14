@@ -13,7 +13,8 @@ introduction about this course
 #### Theoretical things
 
 -	Read about Mathematics & Statistics for Data Science
- 	- Data Science School : https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/
+	- Lecture Slides : [Google Drive](https://drive.google.com/drive/folders/1eTzbDFbp0bPraxQFJadTlGp_o-hrnvbC) 
+	- Data Science School : https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/
 	- Online Graphing Calculator : https://www.desmos.com/calculator
 
 #### Technical things
