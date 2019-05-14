@@ -13,7 +13,7 @@ introduction about this course
 #### Theoretical things
 
 -	Read about Mathematics & Statistics for Data Science
-	- Lecture Slides : [Google Drive](https://drive.google.com/drive/folders/1eTzbDFbp0bPraxQFJadTlGp_o-hrnvbC) 
+	- Lecture Slides : [Google Drive](https://drive.google.com/drive/folders/1eTzbDFbp0bPraxQFJadTlGp_o-hrnvbC)
 	- Data Science School : https://datascienceschool.net/view-notebook/04358acdcf3347fc989c4cfc0ef6121c/
 	- Online Graphing Calculator : https://www.desmos.com/calculator
 
@@ -107,8 +107,8 @@ pip install jupyter numpy pandas matplotlib seaborn scikit-learn scipy plotly cu
 		```
 	-	Windows:
 		```
-		cconda install -c anaconda py-xgboost
-		cconda install -c conda-forge lightgbm graphviz python-graphviz
+		conda install -c anaconda py-xgboost
+		conda install -c conda-forge lightgbm graphviz python-graphviz
 		```
 
 7. Install [RISE](https://github.com/damianavila/RISE) - Jupyter notebook slideshow library (Optional for Presenter)
