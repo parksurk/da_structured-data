@@ -76,7 +76,7 @@ To setup our project environment to run the code in this repository, follow the 
 	-	Windows: https://docs.anaconda.com/anaconda/install/windows/
 		- [Download for Windows](https://drive.google.com/open?id=1CPwcFLmzUYKhdKCRD8NrH4RKaLAefEbk)
 		- Anaconda for Windows 설치시 주의사항
-			* 설치시 'Advanced Options' 단계에서 'Add Anaconda to my PATH environment variable' 옵션을 체크합니다.(Windows의 Default Command Prompt에서 Anaconda 명령어를 사용하기 위합입니다.)
+			* 설치시 'Advanced Options' 단계에서 'Add Anaconda to my PATH environment variable' 옵션을 체크합니다.(Windows의 Default Command Prompt에서 Anaconda 명령어를 사용하기 위함입니다.)
 			![](assets/images/readme_1_anaconda_installation_advanced_option_add_path.png)
 3.	Clone this repository
 	- [Reference #1 : Intorduction to Git for Data Science](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
